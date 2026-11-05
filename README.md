@@ -2,7 +2,7 @@
 
 Son güncelleme: 5 Kasım 2026
 
-Bu politika, VadePusula Android uygulamasının 1.10 sürümü için geçerlidir. Gizlilik soruları için **info.alchemistx@gmail.com** adresinden bize ulaşabilirsiniz.
+Bu politika, VadePusula Android uygulamasının 1.10 ve 1.11 sürümleri için geçerlidir. Gizlilik soruları için **info.alchemistx@gmail.com** adresinden bize ulaşabilirsiniz.
 
 ## Uygulamada işlenen bilgiler
 
@@ -20,7 +20,7 @@ Kayıtlar ve kayıt fotoğrafları, kullanıcı silene kadar cihazda tutulur. Ku
 
 ## Hesap, reklam ve ödeme
 
-1.10 sürümünde uygulama hesabı, reklam SDK'sı ve uygulama içi ödeme veya abonelik bulunmaz. Bu özellikler ileride eklenirse, ilgili sürüm yayımlanmadan önce bu politika ve Google Play Veri Güvenliği beyanı güncellenir.
+1.10 ve 1.11 sürümlerinde uygulama hesabı, reklam SDK'sı ve uygulama içi ödeme veya abonelik bulunmaz. Bu özellikler ileride eklenirse, ilgili sürüm yayımlanmadan önce bu politika ve Google Play Veri Güvenliği beyanı güncellenir.
 
 ## İletişim
 
